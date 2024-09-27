@@ -1,4 +1,4 @@
-/*package com.impact.serviceTest;
+package com.impact.serviceTest;
 
 
 import com.impact.model.Employee;
@@ -134,4 +134,4 @@ public class EmployeeServiceTests {
         // verify
         verify(employeeRepository, times(1)).get(employee.getId());
     }
-}*/
+}

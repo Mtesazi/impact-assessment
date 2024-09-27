@@ -1,4 +1,4 @@
-/*package com.impact.repositoryTest;
+package com.impact.repositoryTest;
 
 
 import com.impact.model.Employee;
@@ -90,4 +90,4 @@ public class EmployeeRepositoryTests {
         //Verify
         assertThat(employeeOptional).isEmpty();
     }
-}*/
+}
